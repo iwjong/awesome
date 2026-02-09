@@ -489,7 +489,7 @@
 - [Vim](https://github.com/mhinz/vim-galore#readme)
 - [Neovim](https://github.com/rockerBOO/awesome-neovim#readme) - Vim-fork focused on extensibility and usability.
 - [Emacs](https://github.com/emacs-tw/awesome-emacs#readme)
-- [Atom](https://github.com/mehcode/awesome-atom#readme) - Open-source and hackable text editor.
+- [Atom](https://github.com/mehcode/awesome-atom#readme) - Open-source and hackable text editor (archived by GitHub in December 2022).
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
 
 ## Gaming
